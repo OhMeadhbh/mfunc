@@ -1,0 +1,26 @@
+{
+  "name": "mfunc",
+  "description": "Meadhbh's FUNCtional programming library in javascript",
+  "maintainers": [
+    {
+      "name": "Meadhbh Hamrick",
+      "email": "OhMeadhbh@gmail.com",
+      "web": "http://meadhbh.org/"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/OhMeadhbh/mfunc/raw/master/LICENSE"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/OhMeadhbh/mfunc"
+    }
+  ],
+  "version": "0.0.1",
+  "main": "./mfunc.js",
+  "keywords": [ "functional" ]
+}
